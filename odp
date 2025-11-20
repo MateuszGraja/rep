@@ -14,7 +14,9 @@
 10. B
 11. D
 12. B
-13. 
+13. -maksymalna liczba iteracji jaką podał uzytkownik,
+-brak zmiany/niewielka zmiana położenia centroidów,
+-brak zmiany przydziału pkt do skupisk pomiedzy iteracjami.
 14. 
 15. 
 16. 
